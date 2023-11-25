@@ -18,9 +18,11 @@ Exemplo: "https://drive.google.com/drive/folders/[Copiar-o-código-que-estiver-a
 7. O nome do currículo deve ser exatamente como está armazenado na pasta do Drive. 
 Exemplo: "JoaoVitorNogueira.pdf".
    
-8. Após as configurações, clique no botão verde "Enviar". Para verificar o funcionamento, acesse o Gmail e confira em "Enviados".
+8. Após as configurações, clique no botão verde "Enviar". Geralmente na primeira vez solicita confirmação de segurança, então clique em "Avançado" > "Acessar a conta do Gmail" > "Ir para o projeto Sem título". 
 
-9. Se gostou, dê uma estrela no projeto, conecte-se no LinkedIn e compartilhe para ajudar mais pessoas na busca por emprego.
+9. Para verificar o funcionamento, acesse o Gmail e confira em e-mails "Enviados".
+
+10. Se gostou, ficarei muito grato se puder adicionar uma estrela ao projeto, me seguir aqui no GitHub, conectar-se comigo no LinkedIn e compartilhar para ajudar mais pessoas na busca por emprego.
 
 ## Observação
 
