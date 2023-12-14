@@ -6,9 +6,9 @@ As instruções estão claras e fáceis de serem seguidas a todo público-geral.
 
 1. **Crie uma conta no Google, se ainda não tiver.**
 
-2. Crie uma pasta no Google Drive para armazenar os arquivos.
+2. Crie uma pasta no Google Drive para armazenar os arquivos e clique em compartilhar, deixe selecionado para qualquer pessoa com o link poder acessar.
   
-3. Acesse [www.drive.google.com/drive/folders/1eC4kNjJ1hJztYkUXxV-BktmqtqESzhY3](https://drive.google.com/drive/folders/1eC4kNjJ1hJztYkUXxV-BktmqtqESzhY3). Não adianta tentar editar a planilha, pois a permissão é de "Comentador", para utilizar a planilha você precisa fazer uma cópia. Siga o passo-a-passo: Faça uma cópia da  planilha "DispararCV" > Mova a planilha para a pasta criada anteriormente > Adicione também o seu currículo.
+3. Acesse [www.drive.google.com/drive/folders/1eC4kNjJ1hJztYkUXxV-BktmqtqESzhY3](https://drive.google.com/drive/folders/1eC4kNjJ1hJztYkUXxV-BktmqtqESzhY3). Não adianta tentar editar a planilha, pois a permissão é de "Comentador", então para utilizar a planilha você precisa fazer uma cópia. Siga o passo-a-passo: Faça uma cópia da  planilha "DispararCV" > Mova a planilha para a pasta criada anteriormente > Adicione também o seu currículo.
    
 4. Abra a planilha, na página "listEmail" da planilha (parte inferior), armazene os e-mails dos recrutadores aos quais deseja enviar o currículo.
    
@@ -37,6 +37,7 @@ Se você tiver dúvidas, sugestões ou desejar um script personalizado, sinta-se
 ## Contato
 
 - E-mail: [jvnogueira2010@gmail.com](mailto:jvnogueira2010@gmail.com)
-- LinkedIn: [www.linkedin.com/in/nogueira-jv](www.linkedin.com/in/nogueira-jv)
+- LinkedIn: [www.linkedin.com/in/nogueira-jv](https://www.linkedin.com/in/nogueira-jv)
+- GitHub: [www.github.com/jv-nogueira](https://github.com/jv-nogueira)
 
  
